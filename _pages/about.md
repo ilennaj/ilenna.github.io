@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at the Kempner Institute at Harvard University. I received my B.A. in Neuroscience at Dartmouth College in 2015, with a focus on cellular and molecular neuroscience. I began my Neuroscience PhD at the University of Pennsylvania in 2017 where I pivoted her research focus to computational neuroscience and neuro-AI with my PhD advisor Konrad Kording. There, I was 1 of 45 students awarded the three-year Howard Hughes Medical Institute Gilliam Fellowship for Advanced Study in 2020. In 2020 and 2021 I was a TA for the Neuromatch Academy Computational Neuroscience and Deep Learning courses, and in 2023 I was a TA for the Imbizo Computational Neuroscience summer school in Cape Town, South Africa. I received my Ph.D. and began her position as a Kempner Research Fellow in 2023. 
+I am a Research Fellow at the Kempner Institute at Harvard University. I received my B.A. in Neuroscience at Dartmouth College in 2015, with a focus on cellular and molecular neuroscience. I began my Neuroscience PhD at the University of Pennsylvania in 2017 where I pivoted my research focus to computational neuroscience and neuro-AI with my PhD advisor Konrad Kording. There, I was 1 of 45 students awarded the three-year Howard Hughes Medical Institute Gilliam Fellowship for Advanced Study in 2020. In 2020 and 2021 I was a TA for the Neuromatch Academy Computational Neuroscience and Deep Learning courses, and in 2023 I was a TA for the Imbizo Computational Neuroscience summer school in Cape Town, South Africa. I received my Ph.D. and began her position as a Kempner Research Fellow in 2023. 
 
-I often spends my time learning latin dance or playing board games.
+I often spend my time learning latin dance or playing board games.
 
 ---
 
